@@ -6,7 +6,7 @@ import os, sys
 from PIL import Image, ImageDraw, ImageFont
 import random
 
-TELEGRAM_TOKEN = ''
+TELEGRAM_TOKEN = '1344114096:AAFQbo8vjzI3qZ47qxiV_emdZz_rc8Sg5xs'
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
