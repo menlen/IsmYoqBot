@@ -6,9 +6,9 @@ import os, sys
 from PIL import Image, ImageDraw, ImageFont
 import random
 
-TELEGRAM_TOKEN = '1344114096:AAFQbo8vjzI3qZ47qxiV_emdZz_rc8Sg5xs'
+TN = '1486165557:AAFxJYyHt9ZPvf3C08D20vS7CnIJbjV1T1c'
 
-bot = telebot.TeleBot(TELEGRAM_TOKEN)
+bot = telebot.TeleBot(TN)
 
 channelId = -1001390673326
 channelId1 = -1001462619192
