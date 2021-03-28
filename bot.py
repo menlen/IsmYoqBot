@@ -6,7 +6,7 @@ import os, sys
 from PIL import Image, ImageDraw, ImageFont
 import random
 
-TN = '1486165557:AAFxJYyHt9ZPvf3C08D20vS7CnIJbjV1T1c'
+TN = ''
 
 bot = telebot.TeleBot(TN)
 
